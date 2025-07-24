@@ -1,17 +1,58 @@
-<img width="469" alt="image" src="https://github.com/user-attachments/assets/cb227c7c-1263-4f03-bf1a-97ef38aad63d" />
+<div align="center">
+  <img width="600" alt="Mentra" src="https://github.com/user-attachments/assets/cb227c7c-1263-4f03-bf1a-97ef38aad63d" />
+  
+  <h3>The open source operating system for smart glasses</h3>
+  
+  <p>
+    <a href="https://mentra.glass">🌐 Website</a> •
+    <a href="https://docs.mentra.glass">📚 Documentation</a> •
+    <a href="https://console.mentra.glass">💻 Developer Console</a> •
+    <a href="https://apps.mentra.glass">🛍️ Mentra Store</a>
+  </p>
+</div>
 
-The open source operating system for smart glasses.
+<div align="center">
+  <h2>Get MentraOS</h2>
+  
+  <a href="https://apps.apple.com/us/app/mentra-the-smart-glasses-app/id6747363193">
+    <img src="appstorebadge.svg" alt="Download on the App Store" height="60">
+  </a>
+  <a href="https://play.google.com/store/apps/details?id=com.mentra.mentra">
+    <img src="googleplaybadge.png" alt="Get it on Google Play" height="60">
+  </a>
+</div>
 
-https://Mentra.Glass
+## 🚀 About Mentra
+
+MentraOS is the open source operating system for smart glasses. We believe in building technology that empowers users while respecting their privacy and freedom.
+
+## 🔗 Quick Links
+
+- **[Website](https://mentra.glass)** - Learn more about Mentra
+- **[Documentation](https://docs.mentra.glass)** - Get started with MentraOS development
+- **[Developer Console](https://console.mentra.glass)** - Manage your apps and deployments
+- **[Mentra Store](https://apps.mentra.glass)** - Discover apps for your smart glasses
 
 ## 📞 Contact
 
-Have questions or ideas? Reach out to us!
+Have questions or ideas? We'd love to hear from you!
 
-- **Email**: team@mentra.glass
-- **Website**: [mentra.glass](https://mentra.glass)
+- **Email**: [team@mentra.glass](mailto:team@mentra.glass)
+- **Discord**: [Join our community](http://mentra.glass/discord)
+- **Twitter**: [Follow @mentralabs](https://x.com/mentralabs)
+
+## 🤝 Contributing
+
+We welcome contributions from the community! Check out our repositories to get started:
+
+- Read our [Contributing Guide](https://docs.mentra.glass/contributing/)
+- Report bugs and request features through GitHub Issues
+- Submit pull requests with improvements
+- Join our developer community
 
 ---
 
-### © 2025 Mentra Labs
-*"Empowering brains, one interface at a time."*
+<div align="center">
+  <h3>© 2025 Mentra Labs</h3>
+  <p><em>"Empowering brains, one interface at a time."</em></p>
+</div>
