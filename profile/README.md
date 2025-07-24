@@ -1,13 +1,13 @@
 <div align="center">
-  <img width="600" alt="Mentra" src="https://github.com/user-attachments/assets/cb227c7c-1263-4f03-bf1a-97ef38aad63d" />
+  <img width="600" alt="Mentra" src="banner2.png" />
   
   <h3>The open source operating system for smart glasses</h3>
   
   <p>
-    <a href="https://mentra.glass">🌐 Website</a> •
-    <a href="https://docs.mentra.glass">📚 Documentation</a> •
-    <a href="https://console.mentra.glass">💻 Developer Console</a> •
-    <a href="https://apps.mentra.glass">🛍️ Mentra Store</a>
+    <a href="https://mentra.glass">Website</a> •
+    <a href="https://docs.mentra.glass">Documentation</a> •
+    <a href="https://console.mentra.glass">Developer Console</a> •
+    <a href="https://apps.mentra.glass">Mentra Store</a>
   </p>
 </div>
 
@@ -15,14 +15,14 @@
   <h2>Get MentraOS</h2>
   
   <a href="https://apps.apple.com/us/app/mentra-the-smart-glasses-app/id6747363193">
-    <img src="appstorebadge.svg" alt="Download on the App Store" height="60">
+    <img src="appstorebadge.svg" alt="Download on the App Store" width="180">
   </a>
   <a href="https://play.google.com/store/apps/details?id=com.mentra.mentra">
-    <img src="googleplaybadge.png" alt="Get it on Google Play" height="60">
+    <img src="googleplaybadge.png" alt="Get it on Google Play" width="200">
   </a>
 </div>
 
-## 🚀 About Mentra
+## 👓 About Mentra
 
 MentraOS is the open source operating system for smart glasses. We believe in building technology that empowers users while respecting their privacy and freedom.
 
