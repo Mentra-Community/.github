@@ -54,5 +54,4 @@ We welcome contributions from the community! Check out our repositories to get s
 
 <div align="center">
   <h3>© 2025 Mentra Labs</h3>
-  <p><em>"Empowering brains, one interface at a time."</em></p>
 </div>
