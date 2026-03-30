@@ -37,9 +37,9 @@ MentraOS is the open source operating system for smart glasses. We believe in bu
 
 Have questions or ideas? We'd love to hear from you!
 
-- **Email**: [team@mentra.glass](mailto:support@mentraglass.com)
+- **Email**: [support@mentraglass.com](mailto:support@mentraglass.com)
 - **Discord**: [Join our community](http://mentraglass.com/discord)
-- **Twitter**: [Follow @mentralabs](https://x.com/mentraglass)
+- **Twitter**: [Follow @mentraglass](https://x.com/mentraglass)
 
 ## 🤝 Contributing
 
