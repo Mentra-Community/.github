@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="600" alt="Mentra" src="twitter.png" />
+  <img width="600" alt="Mentra" src="playstore.png" />
   
   <h3>The open source operating system for smart glasses</h3>
   
